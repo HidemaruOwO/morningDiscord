@@ -1,0 +1,2 @@
+# morningDiscord
+GASでDiscordにおはようメッセージを送るWebhookテンプレート
